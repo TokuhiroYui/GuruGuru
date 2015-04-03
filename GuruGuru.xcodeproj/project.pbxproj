@@ -13,6 +13,7 @@
 		FAC0D5421ACE72FE00754116 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAC0D5411ACE72FE00754116 /* Images.xcassets */; };
 		FAC0D5451ACE72FE00754116 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FAC0D5431ACE72FE00754116 /* LaunchScreen.xib */; };
 		FAC0D5511ACE72FE00754116 /* GuruGuruTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC0D5501ACE72FE00754116 /* GuruGuruTests.swift */; };
+		FAC0D55B1ACE732600754116 /* Neko.png in Resources */ = {isa = PBXBuildFile; fileRef = FAC0D55A1ACE732600754116 /* Neko.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		FAC0D54A1ACE72FE00754116 /* GuruGuruTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuruGuruTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAC0D54F1ACE72FE00754116 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FAC0D5501ACE72FE00754116 /* GuruGuruTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuruGuruTests.swift; sourceTree = "<group>"; };
+		FAC0D55A1ACE732600754116 /* Neko.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Neko.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		FAC0D5371ACE72FE00754116 /* GuruGuru */ = {
 			isa = PBXGroup;
 			children = (
+				FAC0D55A1ACE732600754116 /* Neko.png */,
 				FAC0D53A1ACE72FE00754116 /* AppDelegate.swift */,
 				FAC0D53C1ACE72FE00754116 /* ViewController.swift */,
 				FAC0D53E1ACE72FE00754116 /* Main.storyboard */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAC0D55B1ACE732600754116 /* Neko.png in Resources */,
 				FAC0D5401ACE72FE00754116 /* Main.storyboard in Resources */,
 				FAC0D5451ACE72FE00754116 /* LaunchScreen.xib in Resources */,
 				FAC0D5421ACE72FE00754116 /* Images.xcassets in Resources */,
